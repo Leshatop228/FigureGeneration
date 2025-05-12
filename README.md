@@ -28,3 +28,37 @@
 
 
 с помощью данных функций используя функции из модуля itertools сгенерировать семь фигур, включающих как прямоугольники, так и треугольники и шестиугольники, визуализировать результат.
+
+
+
+
+
+
+Реализовать операции:
+
+
+параллельный перенос
+ (tr_translate);
+
+ <img width="598" alt="image" src="https://github.com/user-attachments/assets/a91553ae-4c00-4734-b078-ec84b2b884a0" />
+
+
+поворот (tr_rotate);
+
+
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/e6e25e26-13bf-4489-9f8e-31bdc46e62e0" />
+
+
+симметрия (tr_symmetry);
+
+<img width="601" alt="image" src="https://github.com/user-attachments/assets/3179f43a-add5-4a9f-b373-720921093dcc" />
+
+
+гомотетия (tr_homothety);
+
+
+
+<img width="605" alt="image" src="https://github.com/user-attachments/assets/18a3bd03-ddae-4ff3-89e4-db27cf281f7e" />
+
+которые можно применить к последовательности полигонов с помощью функции map.
+
