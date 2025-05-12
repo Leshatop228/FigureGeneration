@@ -8,6 +8,14 @@
 
 
 <img width="582" alt="image" src="https://github.com/user-attachments/assets/dd3f893d-cd1c-44aa-bd0f-daa703a70343" />
+
+
+
+<img width="1099" alt="image" src="https://github.com/user-attachments/assets/bf8a98eb-3c4c-4954-a62b-4db8d24b01f0" />
+
+
+
+
 # 2 пункт
 Реализовать функции, генерирующие бесконечную последовательность непересекающихся полигонов с различающимися координатами (например, «ленту», см. рис. 2):
 прямоугольников (gen_rectangle);
@@ -17,13 +25,24 @@
 <img width="577" alt="image" src="https://github.com/user-attachments/assets/fff1e0f6-6143-416d-ad04-16fe3faa5d42" />
 
 
+
 треугольников (gen_triangle);
+
+<img width="876" alt="image" src="https://github.com/user-attachments/assets/e5384b61-ef86-4070-813c-21450f3bc1da" />
+
+
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/2053faef-d774-480a-a927-b8fb6f7b7b75" />
+
 
 
 <img width="625" alt="image" src="https://github.com/user-attachments/assets/f4622f41-8681-415a-9bda-5d29c4468625" />
 
 
 правильных шестиугольников (gen_hexagon).
+
+
+<img width="883" alt="image" src="https://github.com/user-attachments/assets/24604619-46a3-4e92-8706-498a7d855dcd" />
+
 
 
 
@@ -47,7 +66,15 @@
  <img width="598" alt="image" src="https://github.com/user-attachments/assets/a91553ae-4c00-4734-b078-ec84b2b884a0" />
 
 
+ <img width="560" alt="image" src="https://github.com/user-attachments/assets/bea7b7b4-7289-4081-ad94-f77fa285f401" />
+
+
+
 поворот (tr_rotate);
+
+
+<img width="872" alt="image" src="https://github.com/user-attachments/assets/5a22ef98-2bb6-4015-9297-066c7fb4cf01" />
+
 
 
 <img width="611" alt="image" src="https://github.com/user-attachments/assets/e6e25e26-13bf-4489-9f8e-31bdc46e62e0" />
@@ -58,8 +85,13 @@
 <img width="601" alt="image" src="https://github.com/user-attachments/assets/3179f43a-add5-4a9f-b373-720921093dcc" />
 
 
+<img width="755" alt="image" src="https://github.com/user-attachments/assets/c2b185e3-632b-4d2c-b5ef-00cefd5753b7" />
+
+
+
 гомотетия (tr_homothety);
 
+<img width="809" alt="image" src="https://github.com/user-attachments/assets/57f26783-0604-4520-99e5-26c7ff5e8116" />
 
 
 <img width="605" alt="image" src="https://github.com/user-attachments/assets/18a3bd03-ddae-4ff3-89e4-db27cf281f7e" />
@@ -75,10 +107,14 @@
 С помощью данных функций создать и визуализировать (рис. 3):
 три параллельных «ленты» из последовательностей полигонов, расположенных под острым углом к оси абсцисс;
 
+<img width="714" alt="image" src="https://github.com/user-attachments/assets/25bb8f6a-40ac-433a-b186-d4dbfb4ae8b8" />
+
 <img width="587" alt="image" src="https://github.com/user-attachments/assets/f133fa83-aea7-4efe-b59a-58955121c3e0" />
 
 
 две пересекающихся «ленты» из последовательностей полигонов, пересекающихся не в начале координат;
+
+<img width="621" alt="image" src="https://github.com/user-attachments/assets/5530ca8b-a3e0-40f6-8d2d-ce3ba8c1c31f" />
 
 
 <img width="569" alt="image" src="https://github.com/user-attachments/assets/1c0295f0-dd2b-4732-ba2a-705d0aae665b" />
@@ -88,9 +124,12 @@
 
 <img width="590" alt="image" src="https://github.com/user-attachments/assets/50ffec9f-31c9-4308-9f9d-51f611fa0127" />
 
+<img width="711" alt="image" src="https://github.com/user-attachments/assets/f2d8d4a3-ebdd-46ae-b14d-d6e9954c6e2f" />
 
 
 последовательность четырехугольников в разном масштабе, ограниченных двумя прямыми, пересекающимися в начале координат.
+
+<img width="822" alt="image" src="https://github.com/user-attachments/assets/0faa226c-9527-4240-9ff0-fb60b3bb0bee" />
 
 
 <img width="620" alt="image" src="https://github.com/user-attachments/assets/e9bd62e7-1d79-4475-9fa6-5d82d3a7925e" />
