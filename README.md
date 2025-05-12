@@ -101,11 +101,34 @@
 
 фильтрации фигур, являющихся выпуклыми многоугольниками (flt_convex_polygon);
 
-<img width="598" alt="image" src="https://github.com/user-attachments/assets/395f31de-0791-47f3-ae2e-52a97bd1cda9" />
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/08ba9fff-37a3-4ae8-b756-7c3ae66f1030" />
 
+
+<img width="505" alt="image" src="https://github.com/user-attachments/assets/5d82de27-eff4-47ce-bbf1-a6450765dd38" />
 
 фильтрации фигур, имеющих хотя бы один угол, совпадающий с заданной точкой (flt_angle_point);
+при угле (0,0)
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/54f201b1-ecaa-455e-abea-e15435e5535e" />
+
+
 
 фильтрации фигур, имеющих площадь меньше заданной (flt_square);
 
-фильтрации фигур, имеющих кратчайшую сторону меньше заданного значения (flt_short_side);
+<img width="603" alt="image" src="https://github.com/user-attachments/assets/e4d74c0e-0988-42eb-8788-b1bb94424a7b" />
+
+
+
+
+
+
+
+
+
+Реализовать декораторы и продемонстрировать корректность их работы:
+
+преобразующие многоугольники в итераторах среди аргументов функции, работающие на основе функций из п. 3: @tr_translate, @tr_rotate, @tr_symmetry, @tr_homothety.
+<img width="864" alt="image" src="https://github.com/user-attachments/assets/fda2aeb1-d3ed-4f37-9da6-a15228b92757" />
+<img width="632" alt="image" src="https://github.com/user-attachments/assets/bceb8b1a-5c81-451b-8777-c18eae04efd6" />
+
+
