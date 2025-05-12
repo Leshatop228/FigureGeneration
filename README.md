@@ -85,7 +85,8 @@
 
 две параллельных ленты треугольников, ориентированных симметрично друг к другу;
 
-<img width="664" alt="image" src="https://github.com/user-attachments/assets/d87ca153-cbc5-421d-a626-295a7074c698" />
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/50ffec9f-31c9-4308-9f9d-51f611fa0127" />
+
 
 
 последовательность четырехугольников в разном масштабе, ограниченных двумя прямыми, пересекающимися в начале координат.
@@ -93,3 +94,18 @@
 
 <img width="620" alt="image" src="https://github.com/user-attachments/assets/e9bd62e7-1d79-4475-9fa6-5d82d3a7925e" />
 
+
+
+
+
+
+фильтрации фигур, являющихся выпуклыми многоугольниками (flt_convex_polygon);
+
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/395f31de-0791-47f3-ae2e-52a97bd1cda9" />
+
+
+фильтрации фигур, имеющих хотя бы один угол, совпадающий с заданной точкой (flt_angle_point);
+
+фильтрации фигур, имеющих площадь меньше заданной (flt_square);
+
+фильтрации фигур, имеющих кратчайшую сторону меньше заданного значения (flt_short_side);
